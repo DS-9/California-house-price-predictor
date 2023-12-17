@@ -1,1 +1,1 @@
-# California-house-price-predictor
+# California House Price Predictor
